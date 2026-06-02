@@ -63,3 +63,14 @@ The following data preparation steps were performed:
 **Joy Ejimofor**
 
 Aspiring Data Analyst | Power BI Enthusiast
+## Dashboard Screenshots
+
+### Dashboard 1
+
+![Netflix Dashboard 1](Netflix%20Dashboard%201.png)
+
+### Dashboard 2
+
+![Netflix Dashboard 2](Netflix%20Dashboard%202.png)
+
+
